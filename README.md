@@ -10,36 +10,52 @@ El presente reto pone a prueba nuestros conocimientos básicos sobre UX y UI.
 
 ## Objetivo
 
-El reto consiste en identificar los elementos de navegación en las siguientes páginas web: **breather y medium**.
+El reto consiste en identificar los elementos de navegación en las siguientes páginas web: **breather, github y medium**.
 
 
 ## 1. Breather
 
-![breather-global](breather/nav-global.png)
+![breather-global](assets/imagenes/breather/nav-global.png)
 
-![breather-local](breather/nav-local.png)  
+![breather-local](assets/imagenes/breather/nav-local.png)  
 
-![breather-facetada](breather/nav-facetada.png)  
+![breather-local](assets/imagenes/breather/nav-facetada.png)  
 
-![breather-filtrada](breather/nav-filtrada.png)  
+![breather-filtrada](assets/imagenes/breather/nav-filtrada.png)  
 
-![breather-contextual](breather/nav-contextual.png)  
+![breather-contextual](assets/imagenes/breather/nav-contextual.png)  
 
-![breather-lineal](breather/nav-lineal.png)   
+![breather-lineal](assets/imagenes/breather/nav-lineal.png)   
 
-## 2. Medium  
 
-![medium-global](medium/nav-global.png)  
+## 2. Github  
 
-![medium-local](medium/nav-local.png)  
+![github-global](assets/imagenes/github/nav-global.png)  
 
-![medium-facetada](medium/nav-facetada.png)  
+![github-local](assets/imagenes/github/nav-local.png)  
 
-![medium-filtrada](medium/nav-filtrada.png)  
+![github-facetada](assets/imagenes/github/nav-facetada.png)  
 
-![medium-contextual](medium/nav-contextual.png)  
+![github-filtrada](assets/imagenes/github/nav-filtrada.png)  
 
-![medium-lineal](medium/nav-lineal.png)  
+![github-contextual](assets/imagenes/github/nav-contextual.png)  
+
+![github-lineal](assets/imagenes/github/nav-lineal.png)  
+
+
+## 3. Medium  
+
+![medium-global](assets/imagenes/medium/nav-global.png)  
+
+![medium-local](assets/imagenes/medium/nav-local.png)  
+
+![medium-facetada](assets/imagenes/medium/nav-facetada.png)  
+
+![medium-filtrada](assets/imagenes/medium/nav-filtrada.png)  
+
+![medium-contextual](assets/imagenes/medium/nav-contextual.png)  
+
+![medium-lineal](assets/imagenes/medium/nav-lineal.png)  
 
 ## Autor
 
